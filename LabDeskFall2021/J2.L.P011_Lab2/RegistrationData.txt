@@ -1,0 +1,8 @@
+1;c;42;male;sinh vien;0909654777;123456789;987654321;abcxyz;hcm;yes;1st;agree
+2;b;21;male;rua xe;0704482307;54578757;1233458;cong hoa;hn;yes;2;agree
+3;a;32;male;ban ca phe;07458989895;123745368;548751574;lien minh;hue;yes;1;agree
+4;d;45;male;ban may tinh;0704488787;13457;98754;camaas;nb;yes;2;agree
+5;e;18;female;ban banh trang;0333457789;1345648;1324357;cccc;hcm;no;3;disagree
+6;l;44;male;ban;0909459877;214561;175675467;adasxxa;hcm;yes;4;agree
+8;nguyen thi ty;18;female;sinh vien;0704482369;545645345;3545467;áhduashudga;hcm;yes;1;disagree
+10;nguyen van teo;18;male;sinh vien;07454578757;1321324;68656868;abcjjisjjkdmsnd;HN;yes;1;agree
