@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\AS_PRN192\AS_PRN192\bin\Debug\AS_PRN192.exe.config
+C:\Users\ASUS\source\repos\AS_PRN192\AS_PRN192\bin\Debug\AS_PRN192.exe
+C:\Users\ASUS\source\repos\AS_PRN192\AS_PRN192\bin\Debug\AS_PRN192.pdb
+C:\Users\ASUS\source\repos\AS_PRN192\AS_PRN192\obj\Debug\AS_PRN192.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\AS_PRN192\AS_PRN192\obj\Debug\AS_PRN192.Form1.resources
+C:\Users\ASUS\source\repos\AS_PRN192\AS_PRN192\obj\Debug\AS_PRN192.Properties.Resources.resources
+C:\Users\ASUS\source\repos\AS_PRN192\AS_PRN192\obj\Debug\AS_PRN192.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\AS_PRN192\AS_PRN192\obj\Debug\AS_PRN192.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AS_PRN192\AS_PRN192\obj\Debug\AS_PRN192.exe
+C:\Users\ASUS\source\repos\AS_PRN192\AS_PRN192\obj\Debug\AS_PRN192.pdb
